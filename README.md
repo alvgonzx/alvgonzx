@@ -9,3 +9,5 @@ This is the place you can get to know me!
 - ✨ Fun fact: I like [prefixed] commits 🌳
 
 ## Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
