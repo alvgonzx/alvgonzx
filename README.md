@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alvgonzx/alvgonzx/master/memoji-round.png" />
+</p>
 <h3 align="center">I'm a full-stack developer with a specialization in backend development</h3>
 <br>
 This is the place you can get to know me!
