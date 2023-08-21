@@ -4,7 +4,7 @@
 </p>
 
 ## About me
-I'm a Fullstack Developer with a focus on building web applications using modern technologies and simple architectures. I'm currently working on my own SaaS startup built from scratch.
+I'm a Fullstack Developer with a focus on building web applications using modern technologies and simple architectures. I'm currently working on my own studying platform with AI built-in.
 
 ## Technologies
 
